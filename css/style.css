@@ -1,4 +1,20 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
-* This file contains the CSS for index.html
+/* Created by: Isaaq Simon
+* Created on: Mar 2025
+* This CSS file defines the style for index.html
+* ICS2O-Unit2-02-Area-&-Perimeter-of-a-Rectangle
 */
+
+body {
+    background-color: rgb(235, 184, 16);
+}
+
+h1 {
+    background-color: #da0fa7;
+    color: hsl(147, 93%, 47%);
+    padding: 40px;
+    text-align: center;
+}
+
+p {
+    background-color: #0dcf7e;
+}
